@@ -3,7 +3,7 @@ This project is a demo webpage for the company, Horiseon.
 
 
 ## Description
-<a target="_blank" rel="noopener noreferrer" href="https://djonjasmine.github.io/Horiseon-Business-Marketing-Page/">Horiseon</a> is a webpage that provides various solutions on how to promote and grow your business! Just enough information is provided to help you decide what business promotion path is right for you. The solutions that are listed range from brand awareness to social media marketing and more!
+<a href="https://djonjasmine.github.io/Horiseon-Business-Marketing-Page/" target="_blank">Horiseon</a> is a webpage that provides various solutions on how to promote and grow your business! Just enough information is provided to help you decide what business promotion path is right for you. The solutions that are listed range from brand awareness to social media marketing and more!
 
 
 ## Badges
